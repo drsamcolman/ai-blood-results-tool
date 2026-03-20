@@ -26,7 +26,7 @@ A lightweight AI tool that:
 - provides consistent follow-up recommendations
 
 How it works:
-- Uses LLM-based prompting to interpret FBC results
+- Used no code platform AI tooling (Lovable) for structured prompting to interpret FBC results
 - Applies structured clinical logic
 - Outputs standardised recommendations
 

@@ -47,7 +47,7 @@ Future directions
 
 **Case Example**
 
-An anonymised male smoker patient who ultimately had lung cancer found on a Chest X-ray.
+An anonymised male smoker who ultimately had lung cancer found on a Chest X-ray.
 
 Results input:
 <img width="704" height="709" alt="image" src="https://github.com/user-attachments/assets/1df56b21-51b8-402f-814a-b23be5743928" />

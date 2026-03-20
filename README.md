@@ -56,4 +56,5 @@ Interpretation:
 <img width="692" height="482" alt="image" src="https://github.com/user-attachments/assets/6d320eda-636b-4721-a938-c64e49c319f5" />
 
 Nuance: 
+
 This case helped me realise the need for iterating new rules for raised platelets which can be indicative of lung cancer, amongst other cancer types, inkeeping with the 'LEGO-C' initiative (lung, endometrial, gastric, oesophagus, colorectal). A Chest X-ray should be prompted, as well as further focussed symptom-based questionning. 

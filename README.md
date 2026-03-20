@@ -30,6 +30,9 @@ How it works:
 - Applies structured clinical logic
 - Outputs standardised recommendations
 
+<img width="711" height="716" alt="image" src="https://github.com/user-attachments/assets/0137bc8d-dc13-40f5-be31-a7abfed8ed6b" />
+
+
 **Iteration**
 
 This tool was:

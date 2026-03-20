@@ -7,6 +7,7 @@ This project is a prototype AI tool designed to standardise the interpretation o
 Variation in follow-up decisions between clinicians can lead to inconsistent care and inefficiencies. This tool aims to reduce that variation by providing structured, guideline-aligned interpretations of common blood results.
 
 **Problem**
+
 In GP practice, interpretation of blood results is often:
 - variable between clinicians
 - dependent on experience
@@ -18,6 +19,7 @@ This can result in:
 - increased cognitive load
 
 **Solution**
+
 A lightweight AI tool that:
 - interprets blood results using structured prompts
 - aligns outputs with regional guidance
@@ -29,6 +31,7 @@ How it works:
 - Outputs standardised recommendations
 
 **Iteration**
+
 This tool was:
 - tested in real GP workflows
 - iterated based on clinician feedback
